@@ -24,5 +24,3 @@ K-Volt is a DIY "solar generator" - a rather big powerbank with a built-in inver
 
 ## Schematic
 ![Schematic_K-Volt_2022-07-30](https://user-images.githubusercontent.com/62846329/181919954-8beaf8f7-092d-4b4f-aa8c-5fff287451a0.png)
-
-## Software
